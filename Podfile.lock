@@ -1,0 +1,36 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - CYLTabBarController (1.24.2):
+    - CYLTabBarController/Core (= 1.24.2)
+  - CYLTabBarController/Core (1.24.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.2.1)
+  - CYLTabBarController (~> 1.24.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - CYLTabBarController
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  CYLTabBarController: e7440ad0992edfb8ac14a6c793f43aa636c5cba5
+
+PODFILE CHECKSUM: d60366888fd38013c9f1f14b5f4aea44252b32b2
+
+COCOAPODS: 1.5.3

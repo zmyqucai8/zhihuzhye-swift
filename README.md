@@ -1,5 +1,5 @@
 # zhihuzhye-swift
-这是一个简单的swift Demo
+这是一个swift Demo
 
 包含4个模块
 新闻、同城、消息、我的
